@@ -1,0 +1,153 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+html {
+  font-size: 62.5%;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+.header {
+  position: relative;
+  background-image: url(img/midahands+copy.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 140vh;
+}
+ul {
+  list-style: none;
+}
+li {
+  float: left;
+  padding-left: 3rem;
+}
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 1.5rem;
+}
+.nav img {
+  max-width: 250px;
+}
+.nav-1 {
+  position: absolute;
+  top: 13rem;
+  left: 15rem;
+}
+.logo {
+  position: absolute;
+  top: 2rem;
+  left: 43%;
+}
+.nav-2 {
+  position: absolute;
+  top: 13rem;
+  right: 15rem;
+}
+.fam {
+  position: relative;
+  height: 55vh;
+}
+.fam h2 {
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+  line-height: 2.5rem;
+  color: #201713;
+  padding-top: 4rem;
+  padding-left: 10rem;
+  padding-bottom: 1rem;
+}
+.fam p {
+  color: #404040;
+  font-size: 1.5rem;
+  line-height: 3rem;
+  padding-top: 3rem;
+  padding-left: 10rem;
+  padding-bottom: 3rem;
+}
+.mid {
+  background-image: url(img/IMG_0516.jpg);
+  position: relative;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 100%;
+  height: 90vh;
+}
+.mid h1 {
+  font-size: 4rem;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+  line-height: 5rem;
+  color: #fff;
+  padding-top: 8rem;
+  padding-left: 20rem;
+  padding-bottom: 1rem;
+}
+.mid p {
+  color: #fff;
+  font-size: 1.3rem;
+  line-height: 3rem;
+  padding-top: 1rem;
+  padding-left: 20rem;
+  padding-bottom: 3rem;
+}
+
+.collage img {
+  max-width: 445px;
+  height: 500px;
+}
+
+.collage {
+  position: relative;
+  height: 100vh;
+}
+.footer {
+  position: relative;
+  height: 70vh;
+  top: 35rem;
+  background-color: #171717;
+}
+.footer h3 {
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 0.4px;
+  line-height: 2.5rem;
+  color: #fff;
+  text-align: center;
+  padding-top: 8rem;
+  padding-bottom: 1rem;
+}
+.footer p {
+  color: #fff;
+  font-size: 1.3rem;
+  line-height: 3rem;
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 3rem;
+}
+#email {
+  padding: 1.5rem;
+  margin-left: 50rem;
+  background-color: #fff;
+  border: none;
+  color: #404040;
+  font-size: 2rem;
+}
+.footer button {
+  padding: 1rem;
+  margin-left: 2rem;
+  background-color: #404040;
+  color: #fff;
+  border: none;
+}
+.footer a {
+  color: #404040;
+  font-size: 1.3rem;
+  padding-top: 10rem;
+  padding-left: 50rem;
+}
